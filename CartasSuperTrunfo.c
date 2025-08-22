@@ -12,7 +12,7 @@ typedef struct {
 } Carta;
 
 int main() {
-    // Duas cartas já cadastradas (pode trocar pelos dados que quiser)
+    // Duas cartas já cadastradas 
     Carta carta1 = {"Brasil", 214000000, 8515767.0, 2200000.0, 15, 214000000 / 8515767.0};
     Carta carta2 = {"Argentina", 46000000, 2780400.0, 640000.0, 8, 46000000 / 2780400.0};
 
@@ -101,5 +101,5 @@ int main() {
     }
 
     return 0;
-    
+
 }
